@@ -11,7 +11,7 @@ public class Car
 
     public static void main(String[] args)
     {
-        Car  newCar= new Car(2008, "hehe");
+        Car  newCar= new Car(2008, "hehe hellooo");
         System.out.println(newCar.year+" "+newCar.name);
     }
 }
